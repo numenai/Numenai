@@ -1,0 +1,6 @@
+<html>
+  <body>
+    <h1>Welcome to Numenai App</h1>
+    <p>This is a test page for my app.</p>
+  </body>
+</html>
